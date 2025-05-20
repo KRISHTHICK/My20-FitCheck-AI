@@ -1,0 +1,19 @@
+streamlit
+torch
+transformers
+Pillow
+langchain
+langchain-community
+
+#ollama run tinyllama
+#
+#streamlit run app.py
+
+
+# Sample
+#
+#---
+
+#Would you like to add outfit matching from your wardrobe or e-commerce links as a next step?
+
+#Let me know if you'd like a GitHub repository structure or push automation too!
